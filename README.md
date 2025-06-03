@@ -19,3 +19,6 @@ HTML	Structure/layout of the quiz interface
 CSS	Styling the interface (buttons, layout, color feedback)
 JavaScript (ES6)	Logic for quiz flow, button interaction, scoring
 VS Code 
+
+output:
+![Image](https://github.com/user-attachments/assets/b3a38e60-e0f6-4442-a372-073be2837cda)
